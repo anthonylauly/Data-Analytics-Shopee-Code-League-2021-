@@ -6,8 +6,10 @@ Ticket A                          <br>
 
 Id | 0 
 --- | --- 
-*Email* | `John@gmail.com`
-1 | 2 | 3
+Email | John@gmail.com
+Phone | NA  
+Order ID | 12345678
+Contacts | 5
 
 | -------------| -----:|                     
 | Id        |   0              |
@@ -16,7 +18,7 @@ Id | 0
 +-----------+-------------------+<br>
 | Phone     |   NA              |<br>
 +-----------+-------------------+<br>
-| Order ID  |   12345678        |<br>
+| Order ID  |           |<br>
 +-----------+-------------------+<br>
 | Contacts  |   5               |<br>
 +-----------+-------------------+<br><br>
