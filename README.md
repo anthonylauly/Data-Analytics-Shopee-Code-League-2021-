@@ -11,56 +11,33 @@ Phone | NA
 Order ID | 12345678
 Contacts | 5
 
-| -------------| -----:|                     
-| Id        |   0              |
-+-----------+-------------------+<br>
-| Email     |   John@gmail.com  |<br>
-+-----------+-------------------+<br>
-| Phone     |   NA              |<br>
-+-----------+-------------------+<br>
-| Order ID  |           |<br>
-+-----------+-------------------+<br>
-| Contacts  |   5               |<br>
-+-----------+-------------------+<br><br>
-
+<br>
 Ticket B <br>
-+-----------+-------------------+<br>
-| Id        |   1               |<br>
-+-----------+-------------------+<br>
-| Email     |   NA              |<br>
-+-----------+-------------------+<br>
-| Phone     |   682212345       |<br>
-+-----------+-------------------+<br>
-| Order ID  |   12345678        |<br>
-+-----------+-------------------+<br>
-| Contacts  |   2               |<br>
-+-----------+-------------------+<br><br>
+
+Id | 1 
+--- | --- 
+Email | NA
+Phone | 682212345  
+Order ID | 12345678
+Contacts | 2
 
 Ticket C<br>
-+-----------+-------------------+<br>
-| Id        |   34567           |<br>
-+-----------+-------------------+<br>
-| Email     |   Wick@gmail.com  |<br>
-+-----------+-------------------+<br>
-| Phone     |   682212345       |<br>
-+-----------+-------------------+<br>
-| Order ID  |   NA              |<br>
-+-----------+-------------------+<br>
-| Contacts  |   4               |<br>
-+-----------+-------------------+<br><br>
+
+Id | 34567 
+--- | --- 
+Email | Wick@gmail.com
+Phone | 682212345  
+Order ID | NA
+Contacts | 4
 
 Ticket D<br>
-+-----------+-------------------+<br>
-| Id        |   78999           |<br>
-+-----------+-------------------+<br>
-| Email     |   Wick@gmail.com  |<br>
-+-----------+-------------------+<br>
-| Phone     |   NA              |<br>
-+-----------+-------------------+<br>
-| Order ID  |   NA              |<br>
-+-----------+-------------------+<br>
-| Contacts  |   3               |<br>
-+-----------+-------------------+<br><br>
+
+Id | 78999 
+--- | --- 
+Email | Wick@gmail.com
+Phone | NA  
+Order ID | NA
+Contacts | 3
 
 Each of these tickets are related either directly or indirectly through Email, Phone or Order ID,therefore each ticket belongs to the same user.<br>
 ● Ticket A and B are linked through Order ID<br>
