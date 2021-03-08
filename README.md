@@ -4,9 +4,9 @@ This Repository contain my submission of Data Analytic competition. The task is 
 
 Ticket A                          <br>  
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
+Id | 0 
+--- | --- 
+*Email* | `John@gmail.com`
 1 | 2 | 3
 
 | -------------| -----:|                     
