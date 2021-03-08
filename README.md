@@ -4,8 +4,8 @@ This Repository contain my submission of Data Analytic competition. The task is 
 
 Ticket A <br>  
 
---- | ---
 Id | 0  
+--- | ---
 Email | John@gmail.com
 Phone | NA  
 Order ID | 12345678
