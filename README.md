@@ -3,8 +3,8 @@
 This Repository contain my submission of Data Analytic competition. The task is to gather all contacts available in specific Ticket. An example<br><br>
 
 Ticket A                          <br>                    
-+-----------+-------------------+<br>                     
-| Id&ensp;        |   0&ensp;               |<br>
+| -------------| -----:|                     
+| Id        |   0              |
 +-----------+-------------------+<br>
 | Email     |   John@gmail.com  |<br>
 +-----------+-------------------+<br>
