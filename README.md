@@ -4,7 +4,7 @@ This Repository contain my submission of Data Analytic competition. The task is 
 
 Ticket A                          <br>                    
 +-----------+-------------------+<br>                     
-| Id        |   0               |<br>
+| Id&ensp;        |   0&ensp;               |<br>
 +-----------+-------------------+<br>
 | Email     |   John@gmail.com  |<br>
 +-----------+-------------------+<br>
