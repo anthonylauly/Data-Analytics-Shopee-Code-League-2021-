@@ -2,7 +2,7 @@
 
 This Repository contain my submission of Data Analytic competition. The task is to gather all contacts available in specific Ticket. An example<br><br>
 
-Ticket A                          <br>  
+Ticket A <br>  
 
 Id | 0 
 --- | --- 
@@ -11,7 +11,6 @@ Phone | NA
 Order ID | 12345678
 Contacts | 5
 
-<br>
 Ticket B <br>
 
 Id | 1 
